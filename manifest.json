@@ -1,12 +1,11 @@
 {
-    "name": "finance_planner",
-    "short_name": "finance_planner",
+    "name": "BeSafe",
+    "short_name": "BeSafe",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
+    "background_color": "#F5F7F8",
+    "theme_color": "#0E4F5A",
+    "description": "A private, calm personal-finance planner for spending, goals and retirement.",
     "prefer_related_applications": false,
     "icons": [
         {
